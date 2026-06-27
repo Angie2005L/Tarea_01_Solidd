@@ -12,6 +12,8 @@ public class PronosticoBaloncesto implements Pronostico {
     private EstadoPronostico estado;
 
     public PronosticoBaloncesto() {
+        //ejemplo de estado
+
         this.estado = EstadoPronostico.PENDIENTE;
     }
 
