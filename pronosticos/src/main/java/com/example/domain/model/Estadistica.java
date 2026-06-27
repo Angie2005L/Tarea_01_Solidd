@@ -29,7 +29,7 @@ public class Estadistica {
 
     
     public void actualizar() {
-        System.out.println("[Estadistica] Actualizando estadísticas del evento " + eventoId);
+        System.out.println("....");
     }
 
     public String getEventoId() {
