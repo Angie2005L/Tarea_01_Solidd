@@ -1,7 +1,7 @@
-package com.pronosticos.domain.model;
-import com.pronosticos.domain.model.evento.Evento;
-import com.pronosticos.domain.model.pronostico.Pronostico;
-import com.pronosticos.domain.port.in.SistemaGestion;
+package com.example.domain.model;
+import com.example.domain.model.evento.Evento;
+import com.example.domain.model.pronostico.Pronostico;
+import com.example.domain.port.in.SistemaGestion;
 import java.util.ArrayList;
 import java.util.List;
 public class Usuario {

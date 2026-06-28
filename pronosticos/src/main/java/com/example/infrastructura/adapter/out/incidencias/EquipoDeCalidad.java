@@ -1,7 +1,7 @@
-package com.pronosticos.infrastructura.adapter.out.incidencias;
+package com.example.infrastructura.adapter.out.incidencias;
 
-import com.pronosticos.domain.model.Usuario;
-import com.pronosticos.domain.port.out.GestionIncidencias;
+import com.example.domain.model.Usuario;
+import com.example.domain.port.out.GestionIncidencias;
 
 
 public class EquipoDeCalidad implements GestionIncidencias {
@@ -17,7 +17,7 @@ public class EquipoDeCalidad implements GestionIncidencias {
 
     @Override
     public void ajustarPuntos(Usuario u) {
-        System.out.println("...")
+        System.out.println("...");
     }
 
     @Override

@@ -1,4 +1,4 @@
-package com.pronosticos.infrastructura.adapter.out.datos;
+package com.example.infrastructura.adapter.out.datos;
 
 public class ProveedorDatos {
 

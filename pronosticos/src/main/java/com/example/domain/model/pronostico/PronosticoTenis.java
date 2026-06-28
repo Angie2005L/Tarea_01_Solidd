@@ -1,6 +1,6 @@
-package com.pronosticos.domain.model.pronostico;
+package com.example.domain.model.pronostico;
 
-import com.pronosticos.domain.model.EstadoPronostico;
+import com.example.domain.model.EstadoPronostico;
 
 
 public class PronosticoTenis implements Pronostico {
@@ -51,7 +51,15 @@ public class PronosticoTenis implements Pronostico {
 
     @Override
     public int calcularPuntos() {
-        
+        int puntos = 0;
+        if (estado == EstadoPronostico.GANADO) {
+            puntos = 3;
+        } else if (estado == EstadoPronostico.REVISANDO) {
+            puntos = 1;
+        } else {
+            puntos = 0;
+        }
+        return puntos;
     }
 
     public void setId(String id) {

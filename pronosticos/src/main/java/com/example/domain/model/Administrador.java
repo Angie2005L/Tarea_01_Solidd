@@ -1,7 +1,7 @@
-package com.pronosticos.domain.model;
+package com.example.domain.model;
 
-import com.pronosticos.domain.port.in.SistemaGestion;
-import com.pronosticos.domain.port.out.SportsFactory;
+import com.example.domain.port.in.SistemaGestion;
+import com.example.domain.port.out.SportsFactory;
 
 public class Administrador {
 

@@ -1,7 +1,7 @@
-package com.pronosticos.domain.port.out;
+package com.example.domain.port.out;
 
-import com.pronosticos.domain.model.evento.Evento;
-import com.pronosticos.domain.model.pronostico.Pronostico;
+import com.example.domain.model.evento.Evento;
+import com.example.domain.model.pronostico.Pronostico;
 
 public interface SportsFactory {
 

@@ -1,4 +1,4 @@
-package com.pronosticos.domain.model;
+package com.example.domain.model;
 
 import java.util.HashMap;
 import java.util.Map;

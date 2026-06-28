@@ -1,6 +1,6 @@
-package com.pronosticos.domain.model.pronostico;
+package com.example.domain.model.pronostico;
 
-import com.pronosticos.domain.model.EstadoPronostico;
+import com.example.domain.model.EstadoPronostico;
 
 
 public interface Pronostico {

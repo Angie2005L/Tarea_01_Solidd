@@ -1,8 +1,8 @@
-package com.pronosticos.infrastructura.adapter.out.estadisticas;
+package com.example.infrastructura.adapter.out.estadisticas;
 
-import com.pronosticos.domain.model.Estadistica;
-import com.pronosticos.domain.port.out.ServicioEstadisticas;
-import com.pronosticos.infrastructura.adapter.out.datos.ProveedorDatos;
+import com.example.domain.model.Estadistica;
+import com.example.domain.port.out.ServicioEstadisticas;
+import com.example.infrastructura.adapter.out.datos.ProveedorDatos;
 
 import java.util.ArrayList;
 import java.util.List;

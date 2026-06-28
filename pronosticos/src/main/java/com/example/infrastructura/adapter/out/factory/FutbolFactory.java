@@ -1,10 +1,10 @@
-package com.pronosticos.infrastructura.adapter.out.factory;
+package com.example.infrastructura.adapter.out.factory;
 
-import com.pronosticos.domain.model.evento.Evento;
-import com.pronosticos.domain.model.evento.EventoFutbol;
-import com.pronosticos.domain.model.pronostico.Pronostico;
-import com.pronosticos.domain.model.pronostico.PronosticoFutbol;
-import com.pronosticos.domain.port.out.SportsFactory;
+import com.example.domain.model.evento.Evento;
+import com.example.domain.model.evento.EventoFutbol;
+import com.example.domain.model.pronostico.Pronostico;
+import com.example.domain.model.pronostico.PronosticoFutbol;
+import com.example.domain.port.out.SportsFactory;
 
 import java.util.Date;
 

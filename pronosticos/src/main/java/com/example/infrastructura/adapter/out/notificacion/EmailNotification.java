@@ -1,7 +1,7 @@
-package com.pronosticos.infrastructura.adapter.out.notificacion;
+package com.example.infrastructura.adapter.out.notificacion;
 
-import com.pronosticos.domain.model.Usuario;
-import com.pronosticos.domain.port.out.NotificacionService;
+import com.example.domain.model.Usuario;
+import com.example.domain.port.out.NotificacionService;
 import java.util.HashSet;
 import java.util.Set;
 
