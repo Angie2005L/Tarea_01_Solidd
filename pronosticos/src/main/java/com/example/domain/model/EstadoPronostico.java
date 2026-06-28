@@ -1,4 +1,4 @@
-package com.pronosticos.domain.model;
+package com.example.domain.model;
 
 public enum EstadoPronostico {
 //enum de estadospronostico

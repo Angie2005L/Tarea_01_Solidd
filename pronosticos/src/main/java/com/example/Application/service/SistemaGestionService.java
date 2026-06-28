@@ -1,13 +1,13 @@
-package com.pronosticos.application.service;
+package com.example.Application.service;
 
-import com.pronosticos.domain.model.Usuario;
-import com.pronosticos.domain.model.evento.Evento;
-import com.pronosticos.domain.model.pronostico.Pronostico;
-import com.pronosticos.domain.port.in.SistemaGestion;
-import com.pronosticos.domain.port.out.GestionIncidencias;
-import com.pronosticos.domain.port.out.NotificacionService;
-import com.pronosticos.domain.port.out.ServicioEstadisticas;
-import com.pronosticos.domain.port.out.SportsFactory;
+import com.example.domain.model.Usuario;
+import com.example.domain.model.evento.Evento;
+import com.example.domain.model.pronostico.Pronostico;
+import com.example.domain.port.in.SistemaGestion;
+import com.example.domain.port.out.GestionIncidencias;
+import com.example.domain.port.out.NotificacionService;
+import com.example.domain.port.out.ServicioEstadisticas;
+import com.example.domain.port.out.SportsFactory;
 
 import java.util.ArrayList;
 import java.util.List;

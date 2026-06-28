@@ -1,4 +1,4 @@
-package com.pronosticos.domain.model.evento;
+package com.example.domain.model.evento;
 
 import java.util.Date;
 

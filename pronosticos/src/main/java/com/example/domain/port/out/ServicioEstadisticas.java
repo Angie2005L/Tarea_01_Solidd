@@ -1,6 +1,6 @@
-package com.pronosticos.domain.port.out;
+package com.example.domain.port.out;
 
-import com.pronosticos.domain.model.Estadistica;
+import com.example.domain.model.Estadistica;
 
 import java.util.List;
 

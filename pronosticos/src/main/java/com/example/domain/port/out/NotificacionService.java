@@ -1,6 +1,6 @@
-package com.pronosticos.domain.port.out;
+package com.example.domain.port.out;
 
-import com.pronosticos.domain.model.Usuario;
+import com.example.domain.model.Usuario;
 
 public interface NotificacionService {
 

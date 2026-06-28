@@ -1,9 +1,9 @@
-package com.pronosticos.domain.port.in;
+package com.example.domain.port.in;
 
-import com.pronosticos.domain.model.Usuario;
-import com.pronosticos.domain.model.evento.Evento;
-import com.pronosticos.domain.model.pronostico.Pronostico;
-import com.pronosticos.domain.port.out.SportsFactory;
+import com.example.domain.model.Usuario;
+import com.example.domain.model.evento.Evento;
+import com.example.domain.model.pronostico.Pronostico;
+import com.example.domain.port.out.SportsFactory;
 
 import java.util.List;
 
